@@ -14,7 +14,7 @@ amplify it and transforming it into a light signal carried out the cryostat by o
 Since there were suspects of leakage of photons inside the cryostat, random triggers tests were conducted in order to understand the source of light leakage, 
 which source was then confirmed to be optical fibers (then black coated from that moment on). My contributions are a full library of functions to help detect random peaks (determined then to be light peaks) and various manual hardware test
 to modify the configuration of the test-bench in order to exclude hypothesis, fundamental over the final determination of the leakage source.
-More details can be found in my master thesis uploaded on my (LinkedIn profile)[https://www.linkedin.com/-davide-moretti].
+More details can be found in my master thesis uploaded on my [LinkedIn profile](https://www.linkedin.com/-davide-moretti).
 
 #### Various plots
 Here below I attach some plots that are made through all the classes and functions contained in this repository.
