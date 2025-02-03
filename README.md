@@ -5,8 +5,7 @@ Functions.py contains another set of functions to analyze and plot data.
 Other files are example notebooks that use these functions contained in the files cited above with custom quantities to plot useful histogram required for APC and DUNE team meeting.
 
 #### Test-bench equipment
-The data acquisition (DAQ) is done with CAEN Digitizer DT5730SB (2 Vpp, 14 bits, 500 MSamples/s), specially customized for the DAQ in the Coldbox at CERN, the test-bench was composed by the digitizer, 
-an LED pulser, Silicon-PhotoMultipiers (SiPMs), custom electronic boards, ecroy WaveRunner 625Zi oscilloscope and a dual chamber vacuum cryostat with a capability of ∼85 litres.
+The data acquisition (DAQ) is done with CAEN Digitizer DT5730SB (2 Vpp, 14 bits, 500 MSamples/s), specially customized for the DAQ in the Coldbox at CERN, the test-bench was composed by the digitizer, an LED pulser, Silicon-PhotoMultipiers (SiPMs), custom electronic boards, Lecroy WaveRunner 625Zi oscilloscope and a dual chamber vacuum cryostat with a capability of ∼85 litres.
 <img width="354" alt="image" src="https://github.com/user-attachments/assets/c24a019d-1846-4758-bcc7-d0139199e50f" />
 
 #### Brief explanation of the tests
