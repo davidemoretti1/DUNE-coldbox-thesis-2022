@@ -19,7 +19,7 @@ More details can be found in my master thesis uploaded on my [LinkedIn profile](
 #### Various plots
 Here below I attach some plots that are made through all the classes and functions contained in this repository.
 
-Charge histogram (fit):
+Charge histogram (multi-Gaussian fit):
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/19866b58-2127-490f-b846-893f5248441e" />
 
 
